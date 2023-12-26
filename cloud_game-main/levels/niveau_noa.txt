@@ -1,0 +1,32 @@
+LevelDesigner
+height	500
+width	1000
+
+Character
+initial_pos	[12, 94]
+height	35.0
+width	40.0
+speed	0.2
+speed_sprint	0.5
+v0_min	0.2999999999999999
+v0_max	0.5999999999999998
+
+Arrival
+initial_pos	[653, 222]
+height	40.0
+width	190.0
+
+Wall
+initial_pos	[1308, 252]
+height	155
+width	95
+period_X	2
+period_Y	0.9999999999999992
+ampli_X	0
+ampli_Y	300
+
+Coin
+initial_pos	[417, 274]
+height	25
+width	25
+
