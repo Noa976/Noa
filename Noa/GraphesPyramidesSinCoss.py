@@ -56,7 +56,7 @@ def update(frame):
     line_collec = LineCollection(lines, cmap=cmap)
     line_collec.set_array(range(len(xdata)-1)[::-1])
     ax.add_collection(line_collec)
-    plt.title(f'A de {round(LA[frame], 2)}(°) à 180; Pas = {Pas}; cmap={cmap}')
+    plt.title(f'A = {round(LA[frame], 2)}°; Pas = {Pas}; cmap={cmap}, Amax = 180')
 
 
 
