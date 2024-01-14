@@ -6,22 +6,22 @@ Adrac=0
 Hrac=0
 Orac=0
 if 'An' in I:
-    An = mh.radians(float(input('An')))
+    An = mh.radians(float(input('Angle = ')))
 else:
     An = 0  
 
 if 'Ad' in I:
-    Ad = float(input('Ad'))
+    Ad = float(input('Adjacent = '))
 else:
     Ad = 0  
     
 if 'H' in I:
-    H = float(input('H'))
+    H = float(input('Hypoténuse = '))
 else:
     H = 0      
     
 if 'O' in I:
-    O = float(input('O'))
+    O = float(input('Opposé = '))
 else:
     O = 0 
 LA = n.arange(0,2,1)
@@ -52,10 +52,10 @@ for A in LA:
         if O != 0 and Ad != 0:
             An = mh.atan(O/Ad)
 An = mh.degrees(An)
-H= round(H, 10)
-O=round(O,10)
-Ad=round(Ad,10)
-An = round(An, 10)
+H= round(H, 15)
+O=round(O,15)
+Ad=round(Ad,15)
+An = round(An, 15)
 if not round(H, 9)==H:
 	if round(H**2)==round(H**2, 5):
 		H = round(H**2)
