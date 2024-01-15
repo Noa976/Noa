@@ -1,10 +1,10 @@
 import numpy as n
 import math as mh
 I = input("An,Ad,H,O:")
-Anrac=0
-Adrac=0
-Hrac=0
-Orac=0
+Anrac = 0
+Adrac = 0
+Hrac = 0
+Orac = 0
 if 'An' in I:
     An = mh.radians(float(input('Angle = ')))
 else:
@@ -27,7 +27,7 @@ else:
 LA = n.arange(0,2,1)
 for A in LA:
     if O == 0:
-        if An!=0 and Ad!=0:
+        if An != 0 and Ad != 0:
             O = Ad*mh.tan(An)
         if An != 0 and H != 0:
             O = mh.sin(An)*H
@@ -52,26 +52,28 @@ for A in LA:
         if O != 0 and Ad != 0:
             An = mh.atan(O/Ad)
 An = mh.degrees(An)
-H= round(H, 15)
-O=round(O,15)
-Ad=round(Ad,15)
+H = round(H, 15)
+O = round(O,15)
+Ad = round(Ad,15)
 An = round(An, 15)
-if not round(H, 9)==H:
-	if round(H**2)==round(H**2, 5):
+if not round(H, 9) == H:
+	if round(H**2) == round(H**2, 5):
 		H = round(H**2)
-		Hrac=1
-if not round(An, 9)==An:
-	if round(An**2)==round(An**2, 5):
+		Hrac = 1
+if not round(An, 9) == An:
+	if round(An**2) == round(An**2, 5):
 		An = round(An**2)
-		Anrac=1
-if not round(Ad, 9)==Ad:
-	if round(Ad**2)==round(Ad**2, 5):
+		Anrac = 1
+if not round(Ad, 9) == Ad:
+	if round(Ad**2) == round(Ad**2, 5):
 		Ad = round(Ad**2)
-		Adrac=1
-if not round(O, 9)==O:
-	if round(O**2)==round(O**2, 5):
+		Adrac = 1
+if not round(O, 9) == O:
+	if round(O**2) == round(O**2, 5):
 		O = round(O**2)
-		Orac=1
+		Orac = 1
+if An == 0 or O == 0 or Ad == 0 or H == 0:
+     print('Les informations sont insuffisantes pour établir les longueurs')
 
 if Hrac == 0:
     print(f'Hypoténuse = {H}')
@@ -84,9 +86,9 @@ else:
      print(f'Adjacent = racine de {Ad} ~ {mh.sqrt(Ad)}')
 
 if Anrac == 0:
-    print(f'Angle = {An}')
+    print(f'Angle = {An}°')
 else:
-     print(f'Angle = racine de {An} ~ {mh.sqrt(An)}')
+     print(f'Angle = racine de {An}° ~ {mh.sqrt(An)}°')
 
 
 if Orac == 0:
