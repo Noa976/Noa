@@ -2,6 +2,7 @@ import numpy as n
 import matplotlib.pyplot as plt
 import matplotlib.animation as plta
 from matplotlib.collections import LineCollection
+plt.rcParams["figure.figsize"] = (8,8)
 
 '''np.arange(debut, fin, pas) #l'ensemble des valaeurs qui vont de début jusqu'à fin avec un pas de pas
 
@@ -14,7 +15,7 @@ np.sin(np.array(3,5,4))'''
 Pas = 0.025
 Debut = 20
 Prec = 100
-Intervale = 25
+Intervale = 5
 cmap = 'hot'
 
 LX = []
@@ -38,7 +39,7 @@ for A in LA:
 
     #plt.plot(X, Y)
     #plt.show()
-plt.rcParams["figure.figsize"] = (10,10)
+
 fig, ax = plt.subplots()
 
 
