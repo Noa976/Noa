@@ -18,12 +18,12 @@ if T == 2:
     if delta > 0:
         x1 = (-b + mh.sqrt(delta))/(2*a)
         x2 = (-b + mh.sqrt(delta))/(2*a)
-        print(f'Premier résultat = {x1}')
-        print(f'Second résultat = {x2}')
+        print(f'x = {x1}')
+        print(f'x = {x2}')
 
     if delta == 0:
         x = -b / (2*a)
-        print(f'Résultat = {x}')
+        print(f'x = {x}')
 
     if delta < 0:
         print("La valeur de x ne peut pas être définie ")

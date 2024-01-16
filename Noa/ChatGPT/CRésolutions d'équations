@@ -1,0 +1,24 @@
+from sympy import symbols, Eq, solve
+
+def resoudre_equation(equation_str):
+    x = symbols('x')
+    
+    # Convertir la chaîne en une expression Python
+    equation = eval(equation_str)
+    
+    # Créer une équation à partir de l'expression
+    equation_object = Eq(equation, 0)
+    
+    # Résoudre l'équation
+    solutions = solve(equation_object, x)
+    
+    # Convertir les solutions en nombres flottants
+    numerical_solutions = [float(solution.evalf()) for solution in solutions]
+    
+    return numerical_solutions
+
+# Exemple d'utilisation
+equation_str = input("Entrez l'équation (par exemple, 2*x**2 + 3*x + 2) : ")
+solutions = resoudre_equation(equation_str)
+
+print("Les solutions de l'équation sont :", solutions)
