@@ -12,8 +12,8 @@ np.cos
 
 np.sin(np.array(3,5,4))'''
 
-Pas = 0.025
-Debut = 20
+Pas = 5
+Debut = 10
 Prec = 100
 Intervale = 5
 cmap = 'hot'
