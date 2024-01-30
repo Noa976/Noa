@@ -2,7 +2,11 @@ import numpy as np
 A = np.array([2,5,4,1]) #definition d'un tableau 1D
 B = np.array([[2,0,1,2],
               [1,0,2,4]]) # definition d'un tableau 2D
-b = B[1,3]
+j=1
+print(A[j])
+
+'''b = B[1,3]
+
 print('b', b)
 N = 10
 S = 0
@@ -58,8 +62,8 @@ def patate_douce(x, m=2):
     return v
 
 import numpy as np  # traiter les tableaux
-'''import matplotlib.pyplot as plt   # tracer des graphes
-
+''''''import matplotlib.pyplot as '''   # tracer des graphes'''''
+'''
 X = np.arange(0, 8*np.pi, 10**-4)   # l'axe des abysses qui va de 0 à 8pi # arange(debut, fin, pas)
 Y = np.sin(X)   # le sinus de l'axe des abysses
 

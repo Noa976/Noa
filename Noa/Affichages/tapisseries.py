@@ -1,16 +1,18 @@
 from math import *
-from defs import *
 from turtle import *
 from numpy import *
-import random
-for i in range(100):
+from random import *
+colors = ['yellow', 'cyan', 'red', 'light blue', 'pink', 'blue', 'purple', 'green', 'orange']
+for h in range(100):
  reset()
  speed("fastest")
- up()
+ down()
  y=250
+ up()
  goto(-250,y)
+ down()
  def a1():
-    fillcolor("pink")
+    fillcolor(Col1)
     begin_fill()
     
     right(45)
@@ -21,7 +23,7 @@ for i in range(100):
     forward(50)
     right(90)
     end_fill()
-    fillcolor("yellow")
+    fillcolor(Col2)
     begin_fill()
     right(45)
     forward(sqrt(25**2+25**2))
@@ -30,7 +32,7 @@ for i in range(100):
     right(90)
     back(25)
     end_fill()
-    fillcolor("cyan")
+    fillcolor(Col3)
     begin_fill()
     forward(25)
     right(90)
@@ -77,12 +79,21 @@ for i in range(100):
     back(50)
  A=['a1','a2','a3','a4']
  
- Value1=random.choice(A)
- Value2=random.choice(A)
- Value3=random.choice(A)
- Value4=random.choice(A)
- for i in range(4):    
+ Value1=choice(A)
+ Value2=choice(A)
+ Value3=choice(A)
+ Value4=choice(A)
+ for i in range(4): 
+
     for i in range(4):
+        Col1=choice(colors)
+        Col2=choice(colors)
+        while Col1==Col2:
+                Col2=choice(colors)
+        Col3=choice(colors)
+        while Col1==Col3 or Col2==Col3:
+                Col3=choice(colors)
+        
         if 'a1' in Value1:
             a1()
         if 'a2' in Value1:
@@ -128,6 +139,7 @@ for i in range(100):
     y+=-100
     up()
     goto(-250,y)
+    down()
     
 
 
