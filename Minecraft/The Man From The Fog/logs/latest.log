@@ -1,0 +1,640 @@
+[09:52:10] [main/INFO]: ModLauncher running: args [--username, N8883603, --version, The Man From The Fog, --gameDir, C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog, --assetsDir, C:\Users\Noa\AppData\Roaming\.minecraft\assets, --assetIndex, 1.19, --uuid, dd32f022e20046e79f4053365b2bbd95, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, release, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[09:52:10] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[09:52:11] [main/INFO]: OptiFineTransformationService.onLoad
+[09:52:11] [main/INFO]: OptiFine ZIP file URL: union:/C:/Users/Noa/AppData/Roaming/.minecraft/versions/The%20Man%20From%20The%20Fog/mods/OptiFine-1.19.2_HD_U_I1.jar%23166!/
+[09:52:11] [main/INFO]: OptiFine ZIP file: C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods\OptiFine-1.19.2_HD_U_I1.jar
+[09:52:11] [main/INFO]: Target.PRE_CLASS is available
+[09:52:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Noa/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2397!/ Service=ModLauncher Env=CLIENT
+[09:52:11] [main/INFO]: OptiFineTransformationService.initialize
+[09:52:11] [main/INFO]: Found mod file [1.19.2]+SecurityCraft+v1.9.6.1.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/INFO]: Found mod file architectury-6.5.85-forge.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/INFO]: Found mod file Cave+Dweller+Reimagined.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/INFO]: Found mod file cgm-forge-1.19.2-1.3.7.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/INFO]: Found mod file create-1.19.2-0.5.1.f.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/INFO]: Found mod file framework-forge-1.19.2-0.6.16.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/INFO]: Found mod file geckolib-forge-1.19-3.1.40.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/INFO]: Found mod file jei-1.19.2-forge-11.6.0.1018.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/INFO]: Found mod file journeymap-1.19.2-5.9.7-forge.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/INFO]: Found mod file Simple+Weapons+1.4.5+-+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/INFO]: Found mod file simplyswords-forge-1.47.0-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/INFO]: Found mod file the+man+1.19.2+-+1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/INFO]: Found mod file TheOneWhoWatches-V1.2.1-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/INFO]: Found mod file voicechat-forge-1.19.2-2.5.1.jar of type MOD with provider {mods folder locator at C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\mods}
+[09:52:11] [main/WARN]: Mod file C:\Users\Noa\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.19.2-43.3.0\fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
+[09:52:11] [main/WARN]: Mod file C:\Users\Noa\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.3.0\javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[09:52:11] [main/WARN]: Mod file C:\Users\Noa\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.3.0\lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[09:52:11] [main/WARN]: Mod file C:\Users\Noa\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.19.2-43.3.0\mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[09:52:11] [main/INFO]: Found mod file fmlcore-1.19.2-43.3.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5eccd3b9
+[09:52:11] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5eccd3b9
+[09:52:11] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5eccd3b9
+[09:52:11] [main/INFO]: Found mod file mclanguage-1.19.2-43.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5eccd3b9
+[09:52:11] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5eccd3b9
+[09:52:11] [main/INFO]: Found mod file forge-1.19.2-43.3.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5eccd3b9
+[09:52:12] [main/INFO]: Found 2 dependencies adding them to mods collection
+[09:52:12] [main/INFO]: Found mod file flywheel-forge-1.19.2-0.6.10-20.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@59429fac
+[09:52:12] [main/INFO]: Found mod file Registrate-MC1.19-1.1.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@59429fac
+[09:52:12] [main/INFO]: OptiFineTransformationService.transformers
+[09:52:12] [main/INFO]: Targets: 386
+[09:52:13] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
+[09:52:13] [main/INFO]: Compatibility level set to JAVA_17
+[09:52:13] [main/INFO]: Launching target 'forgeclient' with arguments [--version, The Man From The Fog, --gameDir, C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog, --assetsDir, C:\Users\Noa\AppData\Roaming\.minecraft\assets, --uuid, dd32f022e20046e79f4053365b2bbd95, --username, N8883603, --assetIndex, 1.19, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, release, --width, 925, --height, 530]
+[09:52:14] [main/WARN]: Reference map 'simplyswords-common-refmap.json' for simplyswords-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:52:14] [main/WARN]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:52:14] [main/WARN]: Error loading class: me/cominixo/betterf3/modules/TargetModule (java.lang.ClassNotFoundException: me.cominixo.betterf3.modules.TargetModule)
+[09:52:14] [main/WARN]: @Mixin target me.cominixo.betterf3.modules.TargetModule was not found securitycraft.mixins.json:f3.BetterF3TargetModuleMixin
+[09:52:21] [pool-3-thread-1/INFO]: Building unoptimized datafixer
+[09:52:24] [Render thread/WARN]: Assets URL 'union:/C:/Users/Noa/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23181!/assets/.mcassetsroot' uses unexpected schema
+[09:52:24] [Render thread/WARN]: Assets URL 'union:/C:/Users/Noa/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23181!/data/.mcassetsroot' uses unexpected schema
+[09:52:24] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:52:25] [Render thread/ERROR]: Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-3.11.49.5.jar%23128!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:155) ~[authlib-3.11.49.5.jar%23128!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:55) ~[authlib-3.11.49.5.jar%23128!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:161) ~[authlib-3.11.49.5.jar%23128!/:?]
+	at net.minecraft.client.Minecraft.m_193585_(Minecraft.java:646) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:405) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:176) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.3.0.jar%23101!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[authlib-3.11.49.5.jar%23128!/:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-3.11.49.5.jar%23128!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129) ~[authlib-3.11.49.5.jar%23128!/:?]
+	... 19 more
+[09:52:25] [Render thread/INFO]: Setting user: N8883603
+[09:52:25] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[09:52:25] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[09:52:25] [Render thread/INFO]: [OptiFine] 
+[09:52:25] [Render thread/INFO]: [OptiFine] OptiFine_1.19.2_HD_U_I1
+[09:52:26] [Render thread/INFO]: [OptiFine] Build: 20221213-150857
+[09:52:26] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[09:52:26] [Render thread/INFO]: [OptiFine] Java: 17.0.3, Microsoft
+[09:52:26] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[09:52:26] [Render thread/INFO]: [OptiFine] LWJGL: 3.4.0 Win32 WGL Null EGL OSMesa VisualC DLL
+[09:52:26] [Render thread/INFO]: [OptiFine] OpenGL: AMD Radeon (TM) Graphics, version 3.2.0 Core Profile Context 24.1.1.231127, ATI Technologies Inc.
+[09:52:26] [Render thread/INFO]: [OptiFine] OpenGL Version: 3.2.0
+[09:52:26] [Render thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[09:52:26] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[09:52:26] [Render thread/INFO]: [Shaders] OpenGL Version: 3.2.0 Core Profile Context 24.1.1.231127
+[09:52:26] [Render thread/INFO]: [Shaders] Vendor:  ATI Technologies Inc.
+[09:52:26] [Render thread/INFO]: [Shaders] Renderer: AMD Radeon (TM) Graphics
+[09:52:26] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  - 
+[09:52:26] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[09:52:26] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[09:52:26] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[09:52:26] [Render thread/INFO]: [Shaders] Load shaders configuration.
+[09:52:26] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[09:52:26] [Render thread/INFO]: [Shaders] No shaderpack loaded.
+[09:52:26] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[09:52:26] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[09:52:26] [modloading-worker-0/INFO]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
+[09:52:26] [modloading-worker-0/INFO]: MinecraftForge v43.3.0 Initialized
+[09:52:26] [modloading-worker-0/INFO]: Optifine detected.
+[09:52:26] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[09:52:26] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[09:52:26] [VersionCheck/INFO]: [OptiFine] java.io.FileNotFoundException: http://optifine.net/version/1.19.2/HD_U.txt
+[09:52:31] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[09:52:31] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[09:52:31] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[09:52:31] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
+[09:52:32] [Render thread/INFO]: Registering Keybinds
+[09:52:32] [Worker-Main-1/ERROR]: Failed to retrieve profile key pair
+java.io.IOException: Could not retrieve profile key pair
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_233789_(ProfileKeyPairManager.java:152) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_243396_(ProfileKeyPairManager.java:75) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[09:52:32] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources
+[09:52:32] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[09:52:32] [Render thread/INFO]: [OptiFine] Resource packs: Mod Resources
+[09:52:32] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[09:52:32] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
+[09:52:32] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[09:52:33] [Worker-Main-5/INFO]: [OptiFine] Multitexture: false
+[09:52:33] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[09:52:33] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[09:52:33] [Worker-Main-2/INFO]: [voicechat] Compatibility version 18
+[09:52:33] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
+[09:52:33] [Worker-Main-2/INFO]: [voicechat] Loading plugins
+[09:52:33] [Worker-Main-2/INFO]: [voicechat] Loaded 0 plugin(s)
+[09:52:33] [Worker-Main-2/INFO]: [voicechat] Initializing plugins
+[09:52:33] [Worker-Main-2/INFO]: [voicechat] Initialized 0 plugin(s)
+[09:52:34] [Worker-Main-2/INFO]: No plugins for JourneyMap API discovered.
+[09:52:34] [Forge Version Check/INFO]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[09:52:34] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: jei:gui/icons/recipe_transfer, 7 -> 14
+[09:52:34] [Render thread/INFO]: Registered synced data key cgm:aiming for minecraft:player
+[09:52:34] [Render thread/INFO]: Registered synced data key cgm:reloading for minecraft:player
+[09:52:34] [Render thread/INFO]: Registered synced data key cgm:shooting for minecraft:player
+[09:52:35] [Render thread/INFO]: Initializing Packet Registries
+[09:52:35] [Worker-Main-5/INFO]: [voicechat] Loading Opus
+[09:52:35] [Forge Version Check/INFO]: [voicechat] Found status: AHEAD Current: 1.19.2-2.5.1 Target: null
+[09:52:35] [Forge Version Check/INFO]: [cgm] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/cgm/update.json
+[09:52:35] [Render thread/INFO]: Journeymap Initializing
+[09:52:35] [Render thread/INFO]: JourneyMap log initialized.
+[09:52:35] [Render thread/INFO]: initialize ENTER
+[09:52:35] [Render thread/INFO]: [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[09:52:35] [Render thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[09:52:36] [Render thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[09:52:36] [Render thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[09:52:36] [Render thread/INFO]: initialize EXIT, elapsed count 1 avg 578,94ms
+[09:52:36] [Forge Version Check/INFO]: [cgm] Found status: BETA Current: 1.3.7 Target: null
+[09:52:36] [Forge Version Check/INFO]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[09:52:39] [Forge Version Check/INFO]: [framework] Found status: BETA Current: 0.6.16 Target: 0.6.16
+[09:52:39] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09:52:40] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 43.3.0 Target: null
+[09:52:40] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[09:52:41] [Forge Version Check/INFO]: [flywheel] Found status: AHEAD Current: 0.6.10-20 Target: null
+[09:52:41] [Forge Version Check/INFO]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[09:52:41] [Worker-Main-1/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[09:52:41] [Worker-Main-1/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[09:52:41] [Worker-Main-1/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[09:52:41] [Worker-Main-1/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[09:52:42] [Worker-Main-1/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] Multipass connected textures: false
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[09:52:42] [Forge Version Check/INFO]: [journeymap] Found status: UP_TO_DATE Current: 5.9.7 Target: null
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[09:52:42] [Forge Version Check/INFO]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] Multipass connected textures: false
+[09:52:42] [Worker-Main-1/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[09:52:47] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 4
+[09:52:47] [Forge Version Check/INFO]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Sprite size: 64
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 6
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[09:52:48] [Worker-Main-1/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Sprite size: 64
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 6
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[09:52:48] [Worker-Main-1/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Sprite size: 64
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 6
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[09:52:48] [Worker-Main-1/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Sprite size: 64
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 6
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[09:52:48] [Worker-Main-1/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[09:52:48] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[09:52:49] [Worker-Main-1/INFO]: [OptiFine] Sprite size: 64
+[09:52:49] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 6
+[09:52:49] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[09:52:49] [Worker-Main-1/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[09:52:49] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[09:52:49] [Worker-Main-1/INFO]: [OptiFine] Sprite size: 64
+[09:52:49] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 6
+[09:52:49] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[09:52:49] [Worker-Main-1/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[09:52:49] [Render thread/INFO]: Loaded all shader sources.
+[09:52:49] [Render thread/INFO]: Journeymap PostInit
+[09:52:49] [Render thread/ERROR]: Couldn't locate icons for flat: C:\Users\Noa\AppData\Roaming\.minecraft\versions\The%20Man%20From%20The%20Fog\mods\journeymap-1.19.2-5.9.7-forge.jar\assets\journeymap\theme\flat
+[09:52:49] [Render thread/INFO]: Preloaded theme textures: 0
+[09:52:49] [Render thread/INFO]: OptiFine detected.
+[09:52:49] [Render thread/INFO]: postInitialize EXIT, elapsed count 1 avg 53,52ms
+[09:52:51] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[09:52:51] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[09:52:52] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speaker (Realtek(R) Audio)
+[09:52:52] [Render thread/INFO]: Sound engine started
+[09:52:52] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[09:52:52] [Render thread/INFO]: [OptiFine] Animated sprites: 118
+[09:52:52] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[09:52:52] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:52:52] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[09:52:52] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:52:52] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[09:52:52] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:52:52] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/chest.png-atlas
+[09:52:52] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:52:52] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[09:52:52] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:52:52] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[09:52:52] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:52:55] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[09:52:55] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[09:52:55] [Render thread/INFO]: [OptiFine] Animated sprites: 1
+[09:52:55] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[09:52:55] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:52:55] [Render thread/INFO]: Created: 128x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[09:52:55] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:52:55] [Render thread/WARN]: [OptiFine] Invalid grid V: 16, icon: minecraft:optifine/ctm/default/empty
+[09:52:55] [Render thread/WARN]: [OptiFine] Invalid grid V: 17, icon: minecraft:optifine/ctm/default/empty
+[09:52:55] [Render thread/WARN]: [OptiFine] Invalid grid V: 16, icon: minecraft:optifine/ctm/default/empty
+[09:52:55] [Render thread/WARN]: [OptiFine] Invalid grid V: 17, icon: minecraft:optifine/ctm/default/empty
+[09:52:55] [Render thread/WARN]: [OptiFine] Invalid grid V: 16, icon: simplyswords:mob_effect/wildfire
+[09:52:55] [Render thread/WARN]: [OptiFine] Invalid grid V: 17, icon: simplyswords:mob_effect/wildfire
+[09:52:55] [Render thread/WARN]: [OptiFine] Invalid grid V: 16, icon: simplyswords:mob_effect/wildfire
+[09:52:55] [Render thread/WARN]: [OptiFine] Invalid grid V: 17, icon: simplyswords:mob_effect/wildfire
+[09:52:55] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[09:52:55] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:52:55] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[09:52:55] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[09:52:55] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[09:52:55] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[09:52:57] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[09:52:57] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[09:52:57] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
+[09:52:57] [Render thread/INFO]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
+[09:52:58] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[09:53:48] [Render thread/INFO]: Connecting to ManfromtheTNRJ.aternos.me, 25565
+[09:53:48] [Worker-Main-5/ERROR]: Failed to retrieve profile key pair
+java.io.IOException: Could not retrieve profile key pair
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_233789_(ProfileKeyPairManager.java:152) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_243396_(ProfileKeyPairManager.java:75) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[09:54:05] [Render thread/INFO]: Connecting to ManfromtheTNRJ.aternos.me, 25565
+[09:54:05] [Worker-Main-5/ERROR]: Failed to retrieve profile key pair
+java.io.IOException: Could not retrieve profile key pair
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_233789_(ProfileKeyPairManager.java:152) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_243396_(ProfileKeyPairManager.java:75) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[09:54:08] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[09:54:09] [Netty Client IO #4/INFO]: Loading JourneyMap Forge Configs
+[09:54:09] [Netty Client IO #4/INFO]: Server configuration has been reloaded
+[09:54:11] [Netty Client IO #4/INFO]: Connected to a modded server.
+[09:54:13] [Render thread/INFO]: Started 2 worker threads
+[09:54:13] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[09:54:13] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[09:54:13] [Render thread/INFO]: [voicechat] Sending secret request to the server
+[09:54:14] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[09:54:15] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[09:54:15] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[09:54:15] [Render thread/INFO]: Starting JEI...
+[09:54:15] [Render thread/INFO]: Registering item subtypes: jei:minecraft ...
+[09:54:15] [Render thread/INFO]: Registering item subtypes: jei:minecraft took 1.695 ms
+[09:54:15] [Render thread/INFO]: Registering item subtypes: cgm:crafting ...
+[09:54:15] [Render thread/INFO]: Registering item subtypes: cgm:crafting took 29.80 ?s
+[09:54:15] [Render thread/INFO]: Registering item subtypes: jei:gui ...
+[09:54:15] [Render thread/INFO]: Registering item subtypes: jei:gui took 9.800 ?s
+[09:54:15] [Render thread/INFO]: Registering item subtypes: jei:debug ...
+[09:54:15] [Render thread/INFO]: Registering item subtypes: jei:debug took 6.600 ?s
+[09:54:15] [Render thread/INFO]: Registering item subtypes: jei:forge_gui ...
+[09:54:15] [Render thread/INFO]: Registering item subtypes: jei:forge_gui took 8.300 ?s
+[09:54:15] [Render thread/INFO]: Registering item subtypes: create:jei_plugin ...
+[09:54:15] [Render thread/INFO]: Registering item subtypes: create:jei_plugin took 15.70 ?s
+[09:54:15] [Render thread/INFO]: Registering item subtypes: securitycraft:securitycraft ...
+[09:54:15] [Render thread/INFO]: Registering item subtypes: securitycraft:securitycraft took 8.600 ?s
+[09:54:15] [Render thread/INFO]: Registering item subtypes: jei:internal ...
+[09:54:15] [Render thread/INFO]: Registering item subtypes: jei:internal took 8.600 ?s
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft ...
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft took 24.00 ?s
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: cgm:crafting ...
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: cgm:crafting took 8.300 ?s
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: jei:gui ...
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: jei:gui took 7.900 ?s
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: jei:debug ...
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: jei:debug took 1.969 ms
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: jei:forge_gui ...
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: jei:forge_gui took 15.00 ?s
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: create:jei_plugin ...
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: create:jei_plugin took 1.486 ms
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: securitycraft:securitycraft ...
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: securitycraft:securitycraft took 15.30 ?s
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: jei:internal ...
+[09:54:15] [Render thread/INFO]: Registering fluid subtypes: jei:internal took 9.600 ?s
+[09:54:15] [Render thread/INFO]: Registering ingredients: jei:minecraft ...
+[09:54:15] [Render thread/INFO]: Registering ingredients: jei:minecraft took 79.65 ms
+[09:54:15] [Render thread/INFO]: Registering ingredients: cgm:crafting ...
+[09:54:15] [Render thread/INFO]: Registering ingredients: cgm:crafting took 12.20 ?s
+[09:54:15] [Render thread/INFO]: Registering ingredients: jei:gui ...
+[09:54:15] [Render thread/INFO]: Registering ingredients: jei:gui took 7.600 ?s
+[09:54:15] [Render thread/INFO]: Registering ingredients: jei:debug ...
+[09:54:15] [Render thread/INFO]: Loading config file: C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\config\jei\jei-debug.ini
+[09:54:15] [Render thread/INFO]: Registering ingredients: jei:debug took 4.522 ms
+[09:54:15] [Render thread/INFO]: Registering ingredients: jei:forge_gui ...
+[09:54:15] [Render thread/INFO]: Registering ingredients: jei:forge_gui took 9.200 ?s
+[09:54:15] [Render thread/INFO]: Registering ingredients: create:jei_plugin ...
+[09:54:15] [Render thread/INFO]: Registering ingredients: create:jei_plugin took 6.100 ?s
+[09:54:15] [Render thread/INFO]: Registering ingredients: securitycraft:securitycraft ...
+[09:54:15] [Render thread/INFO]: Registering ingredients: securitycraft:securitycraft took 7.600 ?s
+[09:54:15] [Render thread/INFO]: Registering ingredients: jei:internal ...
+[09:54:15] [Render thread/INFO]: Registering ingredients: jei:internal took 6.600 ?s
+[09:54:15] [Render thread/INFO]: Registering categories: jei:minecraft ...
+[09:54:15] [Render thread/INFO]: Registering categories: jei:minecraft took 17.65 ms
+[09:54:15] [Render thread/INFO]: Registering categories: cgm:crafting ...
+[09:54:15] [Render thread/INFO]: Registering categories: cgm:crafting took 4.634 ms
+[09:54:15] [Render thread/INFO]: Registering categories: jei:gui ...
+[09:54:15] [Render thread/INFO]: Registering categories: jei:gui took 15.00 ?s
+[09:54:15] [Render thread/INFO]: Registering categories: jei:debug ...
+[09:54:15] [Render thread/INFO]: Registering categories: jei:debug took 20.40 ?s
+[09:54:15] [Render thread/INFO]: Registering categories: jei:forge_gui ...
+[09:54:15] [Render thread/INFO]: Registering categories: jei:forge_gui took 9.800 ?s
+[09:54:15] [Render thread/INFO]: Registering categories: create:jei_plugin ...
+[09:54:15] [Render thread/INFO]: Registering categories: create:jei_plugin took 59.92 ms
+[09:54:15] [Render thread/INFO]: Registering categories: securitycraft:securitycraft ...
+[09:54:15] [Render thread/INFO]: Registering categories: securitycraft:securitycraft took 5.206 ms
+[09:54:15] [Render thread/INFO]: Registering categories: jei:internal ...
+[09:54:15] [Render thread/INFO]: Registering categories: jei:internal took 1.721 ms
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft ...
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft took 2.292 ms
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: cgm:crafting ...
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: cgm:crafting took 11.70 ?s
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: jei:gui ...
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: jei:gui took 6.000 ?s
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: jei:debug ...
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: jei:debug took 5.400 ?s
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: jei:forge_gui ...
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: jei:forge_gui took 6.000 ?s
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: create:jei_plugin ...
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: create:jei_plugin took 5.600 ?s
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: securitycraft:securitycraft ...
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: securitycraft:securitycraft took 5.500 ?s
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: jei:internal ...
+[09:54:15] [Render thread/INFO]: Registering vanilla category extensions: jei:internal took 6.000 ?s
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft ...
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft took 2.842 ms
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: cgm:crafting ...
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: cgm:crafting took 65.80 ?s
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: jei:gui ...
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: jei:gui took 7.700 ?s
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: jei:debug ...
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: jei:debug took 15.70 ?s
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: jei:forge_gui ...
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: jei:forge_gui took 6.600 ?s
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: create:jei_plugin ...
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: create:jei_plugin took 2.707 ms
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: securitycraft:securitycraft ...
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: securitycraft:securitycraft took 130.3 ?s
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: jei:internal ...
+[09:54:15] [Render thread/INFO]: Registering recipe catalysts: jei:internal took 10.30 ?s
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: jei:minecraft ...
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: jei:minecraft took 40.70 ?s
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: cgm:crafting ...
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: cgm:crafting took 8.500 ?s
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: jei:gui ...
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: jei:gui took 6.000 ?s
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: jei:debug ...
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: jei:debug took 7.200 ?s
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: jei:forge_gui ...
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: jei:forge_gui took 7.400 ?s
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: create:jei_plugin ...
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: create:jei_plugin took 11.00 ?s
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: securitycraft:securitycraft ...
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: securitycraft:securitycraft took 7.000 ?s
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: jei:internal ...
+[09:54:15] [Render thread/INFO]: Registering advanced plugins: jei:internal took 6.400 ?s
+[09:54:15] [Render thread/INFO]: Building recipe registry...
+[09:54:15] [Render thread/INFO]: Building recipe registry took 39.28 ms
+[09:54:15] [Render thread/INFO]: Registering recipes: jei:minecraft ...
+[09:54:16] [Render thread/INFO]: Registering recipes: jei:minecraft took 393.7 ms
+[09:54:16] [Render thread/INFO]: Registering recipes: cgm:crafting ...
+[09:54:16] [Render thread/INFO]: Registering recipes: cgm:crafting took 12.85 ms
+[09:54:16] [Render thread/INFO]: Registering recipes: jei:gui ...
+[09:54:16] [Render thread/INFO]: Registering recipes: jei:gui took 55.20 ?s
+[09:54:16] [Render thread/INFO]: Registering recipes: jei:debug ...
+[09:54:16] [Render thread/INFO]: Registering recipes: jei:debug took 39.80 ?s
+[09:54:16] [Render thread/INFO]: Registering recipes: jei:forge_gui ...
+[09:54:16] [Render thread/INFO]: Registering recipes: jei:forge_gui took 13.30 ?s
+[09:54:16] [Render thread/INFO]: Registering recipes: create:jei_plugin ...
+[09:54:16] [Render thread/INFO]: Registering recipes: create:jei_plugin took 206.9 ms
+[09:54:16] [Render thread/INFO]: Registering recipes: securitycraft:securitycraft ...
+[09:54:16] [Render thread/INFO]: Registering recipes: securitycraft:securitycraft took 19.76 ms
+[09:54:16] [Render thread/INFO]: Registering recipes: jei:internal ...
+[09:54:16] [Render thread/INFO]: Registering recipes: jei:internal took 7.500 ?s
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft ...
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft took 3.808 ms
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: cgm:crafting ...
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: cgm:crafting took 11.50 ?s
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: jei:gui ...
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: jei:gui took 6.600 ?s
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug ...
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug took 8.500 ?s
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge_gui ...
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge_gui took 4.900 ?s
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: create:jei_plugin ...
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: create:jei_plugin took 1.467 ms
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: securitycraft:securitycraft ...
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: securitycraft:securitycraft took 8.800 ?s
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal ...
+[09:54:16] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal took 5.400 ?s
+[09:54:16] [Render thread/INFO]: Building runtime...
+[09:54:16] [Render thread/INFO]: Registering gui handlers: jei:minecraft ...
+[09:54:16] [Render thread/INFO]: Registering gui handlers: jei:minecraft took 1.622 ms
+[09:54:16] [Render thread/INFO]: Registering gui handlers: cgm:crafting ...
+[09:54:16] [Render thread/INFO]: Registering gui handlers: cgm:crafting took 7.100 ?s
+[09:54:16] [Render thread/INFO]: Registering gui handlers: jei:gui ...
+[09:54:16] [Render thread/INFO]: Registering gui handlers: jei:gui took 4.806 ms
+[09:54:16] [Render thread/INFO]: Registering gui handlers: jei:debug ...
+[09:54:16] [Render thread/INFO]: Registering gui handlers: jei:debug took 58.10 ?s
+[09:54:16] [Render thread/INFO]: Registering gui handlers: jei:forge_gui ...
+[09:54:16] [Render thread/INFO]: Registering gui handlers: jei:forge_gui took 8.300 ?s
+[09:54:16] [Render thread/INFO]: Registering gui handlers: create:jei_plugin ...
+[09:54:16] [Render thread/INFO]: Registering gui handlers: create:jei_plugin took 1.284 ms
+[09:54:16] [Render thread/INFO]: Registering gui handlers: securitycraft:securitycraft ...
+[09:54:16] [Render thread/INFO]: Registering gui handlers: securitycraft:securitycraft took 1.330 ms
+[09:54:16] [Render thread/INFO]: Registering gui handlers: jei:internal ...
+[09:54:16] [Render thread/INFO]: Registering gui handlers: jei:internal took 11.90 ?s
+[09:54:16] [Render thread/INFO]: Registering Runtime: jei:minecraft ...
+[09:54:16] [Render thread/INFO]: Registering Runtime: jei:minecraft took 23.20 ?s
+[09:54:16] [Render thread/INFO]: Registering Runtime: cgm:crafting ...
+[09:54:16] [Render thread/INFO]: Registering Runtime: cgm:crafting took 6.100 ?s
+[09:54:16] [Render thread/INFO]: Registering Runtime: jei:gui ...
+[09:54:16] [Render thread/INFO]: Registering Runtime: jei:gui took 5.000 ?s
+[09:54:16] [Render thread/INFO]: Registering Runtime: jei:debug ...
+[09:54:16] [Render thread/INFO]: Registering Runtime: jei:debug took 4.800 ?s
+[09:54:16] [Render thread/INFO]: Registering Runtime: jei:forge_gui ...
+[09:54:16] [Render thread/INFO]: Starting JEI GUI
+[09:54:16] [Render thread/INFO]: Building ingredient list...
+[09:54:16] [Render thread/INFO]: Building ingredient list took 3.598 ms
+[09:54:16] [Render thread/INFO]: Building ingredient filter...
+[09:54:16] [Render thread/INFO]: Loading config file: C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\config\jei\jei-client.ini
+[09:54:16] [Render thread/INFO]: Adding 2828 ingredients
+[09:54:17] [Render thread/INFO]: Added 2828 ingredients
+[09:54:17] [Render thread/INFO]: Building ingredient filter took 481.9 ms
+[09:54:17] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 571.0 ms
+[09:54:17] [Render thread/INFO]: Registering Runtime: create:jei_plugin ...
+[09:54:17] [Render thread/INFO]: Registering Runtime: create:jei_plugin took 13.30 ?s
+[09:54:17] [Render thread/INFO]: Registering Runtime: securitycraft:securitycraft ...
+[09:54:17] [Render thread/INFO]: Registering Runtime: securitycraft:securitycraft took 7.100 ?s
+[09:54:17] [Render thread/INFO]: Registering Runtime: jei:internal ...
+[09:54:17] [Render thread/INFO]: Registering Runtime: jei:internal took 6.200 ?s
+[09:54:17] [Render thread/INFO]: Building runtime took 599.2 ms
+[09:54:17] [Render thread/INFO]: Sending Runtime: jei:minecraft ...
+[09:54:17] [Render thread/INFO]: Sending Runtime: jei:minecraft took 19.60 ?s
+[09:54:17] [Render thread/INFO]: Sending Runtime: cgm:crafting ...
+[09:54:17] [Render thread/INFO]: Sending Runtime: cgm:crafting took 6.400 ?s
+[09:54:17] [Render thread/INFO]: Sending Runtime: jei:gui ...
+[09:54:17] [Render thread/INFO]: Sending Runtime: jei:gui took 7.100 ?s
+[09:54:17] [Render thread/INFO]: Sending Runtime: jei:debug ...
+[09:54:17] [Render thread/INFO]: Sending Runtime: jei:debug took 18.40 ?s
+[09:54:17] [Render thread/INFO]: Sending Runtime: jei:forge_gui ...
+[09:54:17] [Render thread/INFO]: Sending Runtime: jei:forge_gui took 6.000 ?s
+[09:54:17] [Render thread/INFO]: Sending Runtime: create:jei_plugin ...
+[09:54:17] [Render thread/INFO]: Sending Runtime: create:jei_plugin took 7.600 ?s
+[09:54:17] [Render thread/INFO]: Sending Runtime: securitycraft:securitycraft ...
+[09:54:17] [Render thread/INFO]: Sending Runtime: securitycraft:securitycraft took 6.300 ?s
+[09:54:17] [Render thread/INFO]: Sending Runtime: jei:internal ...
+[09:54:17] [Render thread/INFO]: Sending Runtime: jei:internal took 7.100 ?s
+[09:54:17] [Render thread/INFO]: Starting JEI took 1.583 s
+[09:54:17] [Render thread/INFO]: World UID is set to: da6b309d-b0ba-4d4d-a2e1-72997bad9266
+[09:54:18] [Render thread/INFO]: Custom modded block handling enabled for create
+[09:54:18] [Render thread/INFO]: [System] [CHAT] [SecurityCraft] Merci pour l’utilisation de SecurityCraft v1.9.6.1 ! Conseil : Avez-vous une suggestion pour le mod ou avez-vous trouvé un bug ? Rejoignez notre serveur de Discord (anglais uniquement) ! Vous recevrez aussi des mises à jour et des annonces importantes concernant SecurityCraft. https://discord.gg/U8DvBAW
+[09:54:18] [Render thread/INFO]: Loaded 0 advancements
+[09:54:19] [Render thread/WARN]: Unknown custom packet identifier: voicechat:player_states
+[09:54:19] [Render thread/INFO]: [voicechat] Received secret
+[09:54:19] [Render thread/INFO]: [voicechat] Connecting to voice chat server: 'ManfromtheTNRJ.aternos.me.:24454'
+[09:54:19] [Render thread/WARN]: Unknown custom packet identifier: voicechat:secret
+[09:54:19] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[09:54:19] [Render thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[09:54:19] [Render thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[09:54:19] [Render thread/INFO]: Loaded 0 waypoints from C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\journeymap\data\mp\Manfromthefog_da6b309d~b0ba~4d4d~a2e1~72997bad9266\waypoints
+[09:54:19] [Render thread/INFO]: Mapping started in C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\journeymap\data\mp\Manfromthefog_da6b309d~b0ba~4d4d~a2e1~72997bad9266\overworld. Memory: 1504MB total, 691MB free 
+[09:54:19] [Render thread/INFO]: [System] [CHAT] §eJourneyMap:§f Appuyer [§bJ§f]
+[09:54:19] [Render thread/INFO]: JourneyMap: Appuyer [J]
+[09:54:20] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[09:54:21] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[09:54:22] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[09:54:23] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[09:54:24] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[09:54:25] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[09:54:26] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[09:54:27] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[09:54:28] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[09:54:29] [VoiceChatAuthenticationThread/WARN]: [voicechat] Trying to authenticate voice chat connection (this message will not be logged again)
+[09:54:40] [Render thread/INFO]: [System] [CHAT] [Server : N8883603 est maintenant opérateur ou opératrice du serveur]
+[09:55:04] [Render thread/INFO]: [System] [CHAT] Votre mode de jeu est maintenant défini en Mode Créatif
+[09:55:29] [Render thread/INFO]: Loaded 5 advancements
+[09:55:40] [Render thread/WARN]: Can't get entityTexture for cave_dweller:textures/entity_icon/cave_dweller_texture.png
+[09:55:49] [Render thread/INFO]: [System] [CHAT] L'heure a été fixée à 13000
+[09:56:02] [Render thread/INFO]: [System] [CHAT] Votre mode de jeu est maintenant défini en Mode Survie
+[09:56:12] [Render thread/WARN]: the_one_who_watches:textures/entities/the_one_who_watches.png doesn't have /entity/ in path, so can't look for /entity_icon/
+[09:56:15] [Render thread/INFO]: [System] [CHAT] N8883603 s'est fait tuer par un(e) Cave Dweller
+[09:56:15] [Render thread/INFO]: N8883603 died at BlockPos{x=-184, y=119, z=-55}. Deathpoints enabled: true. Deathpoint created: true
+[09:56:15] [Render thread/INFO]: Loaded 28 advancements
+[09:56:15] [Render thread/WARN]: [OptiFine] *** Exception outside of method ***
+[09:56:15] [Render thread/WARN]: [OptiFine] Method deactivated: public static void net.minecraftforge.client.ForgeHooksClient.onScreenCharTypedPost(net.minecraft.client.gui.screens.Screen,char,int)
+[09:56:15] [Render thread/WARN]: [OptiFine] 
+java.lang.NullPointerException: Cannot invoke "java.lang.Boolean.booleanValue()" because "retVal" is null
+	at net.optifine.reflect.Reflector.callBoolean(Reflector.java:711) ~[OptiFine-1.19.2_HD_U_I1.jar%23191!/:?]
+	at net.minecraft.client.KeyboardHandler.lambda$onCharEvent$5(KeyboardHandler.java:664) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.gui.screens.Screen.m_96579_(Screen.java:522) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.KeyboardHandler.m_90889_(KeyboardHandler.java:649) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.KeyboardHandler.lambda$setupCallbacks$9(KeyboardHandler.java:713) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:118) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.KeyboardHandler.lambda$setupCallbacks$10(KeyboardHandler.java:712) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at org.lwjgl.glfw.GLFWCharModsCallbackI.callback(GLFWCharModsCallbackI.java:46) ~[lwjgl-glfw-3.3.1.jar%23144!/:build 7]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.1.jar%23136!/:build 7]
+	at org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3403) ~[lwjgl-glfw-3.3.1.jar%23144!/:build 7]
+	at com.mojang.blaze3d.systems.RenderSystem.m_69495_(RenderSystem.java:198) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at com.mojang.blaze3d.platform.Window.m_85435_(Window.java:453) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1143) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:700) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:212) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23181!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.3.0.jar%23101!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[09:56:22] [Render thread/INFO]: [System] [CHAT] Votre mode de jeu est maintenant défini en Mode Créatif
+[09:57:14] [Render thread/INFO]: [System] [CHAT] Le point de spawn du monde a été défini aux coordonnées -204, 133, 9 [0.0]
+[09:57:33] [Render thread/INFO]: [System] [CHAT] Votre mode de jeu est maintenant défini en Mode Survie
+[09:57:43] [Render thread/INFO]: [System] [CHAT] N8883603 s'est fait tuer par un(e) Cave Dweller
+[09:57:43] [Render thread/INFO]: N8883603 died at BlockPos{x=-222, y=124, z=-6}. Deathpoints enabled: true. Deathpoint created: true
+[09:58:22] [Render thread/WARN]: man:textures/entities/stalker.png doesn't have /entity/ in path, so can't look for /entity_icon/
+[09:58:28] [Render thread/INFO]: [System] [CHAT] Votre mode de jeu est maintenant défini en Mode Créatif
+[09:59:14] [Render thread/INFO]: Stopping!
+[09:59:14] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[09:59:14] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[09:59:14] [Render thread/INFO]: Stopping JEI
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft ...
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft took 13.00 ?s
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: cgm:crafting ...
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: cgm:crafting took 8.100 ?s
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui ...
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui took 3.000 ?s
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug ...
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug took 2.900 ?s
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: jei:forge_gui ...
+[09:59:14] [Render thread/INFO]: Stopping JEI GUI
+[09:59:14] [JEI GUI Config file watcher/INFO]: FileWatcher was interrupted, stopping.
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: jei:forge_gui took 3.884 ms
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: create:jei_plugin ...
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: create:jei_plugin took 5.500 ?s
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: securitycraft:securitycraft ...
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: securitycraft:securitycraft took 3.300 ?s
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal ...
+[09:59:14] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal took 2.900 ?s
+[09:59:14] [JEI Library Config file watcher/INFO]: FileWatcher was interrupted, stopping.
+[09:59:14] [Render thread/INFO]: Unloading synced configs from server
+[09:59:14] [Render thread/INFO]: [voicechat] Clearing audio channels
+[09:59:14] [Render thread/INFO]: [voicechat] Disconnecting voicechat
+[09:59:14] [Render thread/INFO]: Mapping halted in C:\Users\Noa\AppData\Roaming\.minecraft\versions\The Man From The Fog\journeymap\data\mp\Manfromthefog_da6b309d~b0ba~4d4d~a2e1~72997bad9266\minecraft:overworld
